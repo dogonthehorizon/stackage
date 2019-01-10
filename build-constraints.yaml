@@ -9,8 +9,7 @@ cabal-format-version: "2.2"
 packages:
 
     "Fernando Freire <dogonthehorizon@gmail.com> @dogonthehorizon":
-        []
-        # - hal # https://github.com/commercialhaskell/stackage/issues/4288
+        - hal 
 
     "Daniel Taskoff <daniel.taskoff@gmail.com> @leohaskell":
         - skip-var
